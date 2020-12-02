@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="DELETE">
+        <col_name_string>u_when_needed,u_requested_for_email,u_what_needed,u_request_type</col_name_string>
+        <index_col_name>1eaf854d2fc3501098572f2ef699b63e,8aaf854d2fc3501098572f2ef699b62b,8eaf854d2fc3501098572f2ef699b637,ceaf854d2fc3501098572f2ef699b630</index_col_name>
+        <logical_table_name>x_58872_needit_needit</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-09-03 17:54:54</sys_created_on>
+        <sys_id>94fe8e112fc3101098572f2ef699b62d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_index_x_58872_needit_needit_u_when_needed_u_requested_for_email_u_what_needed_u_request_type</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-09-03 17:54:54</sys_updated_on>
+        <table display_value="NeedIt" name="x_58872_needit_needit">b9af454d2fc3501098572f2ef699b684</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>050b138edb3e401049eac59705961987</instance_id>
+        <instance_name>dev99827</instance_name>
+        <name>sys_index_x_58872_needit_needit_u_when_needed_u_requested_for_email_u_what_needed_u_request_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index"><sys_index action="INSERT_OR_UPDATE"><col_name_string>u_when_needed,u_requested_for_email,u_what_needed,u_request_type</col_name_string><index_col_name>1eaf854d2fc3501098572f2ef699b63e,8aaf854d2fc3501098572f2ef699b62b,8eaf854d2fc3501098572f2ef699b637,ceaf854d2fc3501098572f2ef699b630</index_col_name><logical_table_name>x_58872_needit_needit</logical_table_name><sys_class_name>sys_index</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2020-09-03 17:54:54</sys_created_on><sys_id>94fe8e112fc3101098572f2ef699b62d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_index_x_58872_needit_needit_u_when_needed_u_requested_for_email_u_what_needed_u_request_type</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2020-09-03 17:54:54</sys_updated_on><table display_value="NeedIt" name="x_58872_needit_needit">b9af454d2fc3501098572f2ef699b684</table><unique_index>false</unique_index></sys_index></record_update>]]></payload>
+        <payload_hash>1045671999</payload_hash>
+        <record_name>NeedIt: When needed, Requested for email, What needed, Request type</record_name>
+        <reverted_from/>
+        <source>26cd85892fc3501098572f2ef699b62c</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-09-03 17:54:54</sys_created_on>
+        <sys_id>58fe8e112fc3101098572f2ef699b630</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174551b6d120000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-09-03 17:54:54</sys_updated_on>
+        <type>Indexes</type>
+        <update_guid>90fe8e11bec310103866f09255a8b730</update_guid>
+        <update_guid_history>90fe8e11bec310103866f09255a8b730:1045671999</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 22:01:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_index">sys_index</sys_db_object>
+        <sys_id>00fb42239a2846d88001b0ba56da3c90</sys_id>
+        <sys_metadata>94fe8e112fc3101098572f2ef699b62d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_index_x_58872_needit_needit_u_when_needed_u_requested_for_email_u_what_needed_u_request_type</sys_update_name>
+        <sys_update_version display_value="sys_index_x_58872_needit_needit_u_when_needed_u_requested_for_email_u_what_needed_u_request_type">58fe8e112fc3101098572f2ef699b630</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 22:01:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
